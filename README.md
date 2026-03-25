@@ -1,4 +1,4 @@
-# Data-science-lab-work
+
 # Data Science Lab Work
 
 This repository contains all my lab assignments and projects for Data Science.
@@ -26,4 +26,4 @@ This repository contains all my lab assignments and projects for Data Science.
 * Jupyter Notebook
 ## Author - PARUL PRASAD
 
-Your Name
+
